@@ -8,9 +8,12 @@ AI programming involves creating intelligent algorithms and software using langu
 Name of Group is "SPARKUS"
 
 Memebers of Group:
-1. Avanish Kumar Singh
-2. Pulkit Sharma
-3. Harsh Gurwaliya
+| Name | Matriculation Number |
+| ------ | ------ |
+| Avanish Kumar Singh | 22200727 |
+| Pulkit Sharma | 22201100 |
+| Harsh Gurawaliya | 22109730 |
+| Pankaj Saini | 222..... |
 
 
 ## License
