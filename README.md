@@ -7,7 +7,7 @@ AI programming involves creating intelligent algorithms and software using langu
 
 Name of Group is "SPARKUS"
 
-Memebers of Group:
+Members of Group:
 | Name | Matriculation Number |
 | ------ | ------ |
 | Avanish Kumar Singh | 22200727 |
