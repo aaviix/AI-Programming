@@ -1,3 +1,7 @@
+# Author : 22200727
+## Implement the perceptron algorithm on the data set created above. Split the data into a training set and a validation set (90%-10%). Record the behaviour of the algorithm on both sets after sets of 100 updates. Write the code please
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import numpy as np
