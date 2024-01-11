@@ -11,8 +11,6 @@ Members of Group:
 | Name | Matriculation Number |
 | ------ | ------ |
 | Avanish Kumar Singh | 22200727 |
-| Pulkit Sharma | 22201100 |
-| Harsh Gurawaliya | 22109730 |
 | Pankaj Saini | 22200656 |
 
 
