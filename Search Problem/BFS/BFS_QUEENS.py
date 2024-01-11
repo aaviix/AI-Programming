@@ -1,4 +1,5 @@
 ## Author : 22200727
+# BFS Queens Problems
 
 import bfs
 ## Breath First Search
