@@ -1,3 +1,5 @@
+## Author : 22200727
+
 def BreadthFirstSearch(isGoal, nextStates, state=[]):
     toDo = [[state]]  # Initialize a list with the initial state as a path
 
