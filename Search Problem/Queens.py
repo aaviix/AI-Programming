@@ -1,4 +1,5 @@
-# 22200727, 22201100, 
+## Author: 22200727
+# Queens Problem
 
 # set board size
 n = 8
